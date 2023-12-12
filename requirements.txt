@@ -1,0 +1,4 @@
+big-O==0.10.2
+unittest2==1.1.0
+pytest==7.2.0
+pytest-cov==4.0.0
