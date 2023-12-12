@@ -19,6 +19,13 @@ Write a unit test for the function.
 
 - Per curiosità personale, ho fatto uno script ausiliare **computational_difficulty.py** che calcola la complessità temporale per essere sicura che l'implementazione scelta non l'ha portato ad una difficoltà maggiore che lineare. 
 
+## Esecuzione dei Test
+
+Per eseguire i test, esegui il seguente comando dal terminale:
+
+```bash
+python test_compitino.py  ```
+
 - Eventualmente per fare un test più approfondito, si può eseguire il seguente commando: 
 
 	pytest --doctest-modules --junitxml=test-results.xml --cov=. --cov-report=html
